@@ -149,7 +149,6 @@ copy Twe4ker\Hitcircles\404\approachcircle.png .
 copy Twe4ker\Hitcircles\404\approachcircle@2x.png .
 copy Twe4ker\Hitcircles\404\hitcircleoverlay@2x.png .
 copy Twe4ker\Hitcircles\404\hitcircleoverlay.png .
-pause
 cd twe4ker
 goto twe4ker
 :hitatmo
@@ -374,7 +373,6 @@ copy Twe4ker\Hitcircles\WhiteCat\approachcircle.png .
 copy Twe4ker\Hitcircles\WhiteCat\approachcircle@2x.png .
 copy Twe4ker\Hitcircles\WhiteCat\hitcircleoverlay@2x.png .
 copy Twe4ker\Hitcircles\WhiteCat\hitcircleoverlay.png .
-pause
 cd twe4ker
 goto twe4ker
 :cur
